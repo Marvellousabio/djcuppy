@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
 					className="absolute inset-0 bg-cover bg-center bg-no-repeat scale-110"
 					style={{
 						backgroundImage:
-							'url("https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80&w=2000")',
+							'url("https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&q=80&w=2000")',
 					}}
 				></div>
 				<div className="absolute inset-0 bg-gradient-to-t from-[#050505] via-[#050505]/60 to-transparent"></div>
